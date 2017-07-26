@@ -1,0 +1,4 @@
+Activity_Police_Report_Extraction.egg-info/PKG-INFO
+Activity_Police_Report_Extraction.egg-info/SOURCES.txt
+Activity_Police_Report_Extraction.egg-info/dependency_links.txt
+Activity_Police_Report_Extraction.egg-info/top_level.txt

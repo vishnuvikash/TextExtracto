@@ -1,0 +1,294 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <title>Daily Activity Reports | Norman Police</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/default/files/theme/vs2_favicon.png" type="image/x-icon" />
+  <link type="text/css" rel="stylesheet" media="all" href="/sites/default/files/css/0f8f847cd93048ede5c2176bc4871ad9.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/sites/default/files/css/52ddcec26cd4956e9b8f20fe31040910.css" />
+  <script type="text/javascript" src="/sites/default/files/js/af326f6ac7b28f47f5b14578696e0fa3.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip" }, "jqueryPopupwindowPresets": { "jqueryPopupwindowPreset_0": { "preset": "#popuplink:not(.jqueryPopupwindowProcessed),div.popuplink2:not(.jqueryPopupwindowProcessed),ul#popuplink3:not(.jqueryPopupwindowProcessed),*.popuplinks:not(.jqueryPopupwindowProcessed)", "options": { "height": "600", "width": "600", "toolbar": 0, "scrollbars": 0, "status": 0, "resizable": 1, "left": "0", "top": "0", "center": 0, "createnew": 0 } } }, "lightbox2": { "rtl": 0, "file_path": "/(\\w\\w/)sites/default/files", "default_image": "/sites/all/modules/lightbox2/images/brokenimage.jpg", "border_size": "10", "font_color": "fff", "box_color": "000", "top_position": "", "overlay_opacity": "0.8", "overlay_color": "000", "disable_close_click": 1, "resize_sequence": "0", "resize_speed": 400, "fade_in_speed": 400, "slide_down_speed": 600, "use_alt_layout": 1, "disable_resize": 0, "disable_zoom": 0, "force_show_nav": 0, "loop_items": 0, "node_link_text": "View Image Details", "node_link_target": "_blank", "image_count": "Image !current of !total", "video_count": "Video !current of !total", "page_count": "Page !current of !total", "lite_press_x_close": "press \x3ca href=\"#\" onclick=\"hideLightbox(); return FALSE;\"\x3e\x3ckbd\x3ex\x3c/kbd\x3e\x3c/a\x3e to close", "download_link_text": "", "enable_login": false, "enable_contact": false, "keys_close": "c x 27", "keys_previous": "p 37", "keys_next": "n 39", "keys_zoom": "z", "keys_play_pause": "32", "display_image_size": "", "image_node_sizes": "()", "trigger_lightbox_classes": "", "trigger_lightbox_group_classes": "", "trigger_slideshow_classes": "", "trigger_lightframe_classes": "", "trigger_lightframe_group_classes": "", "custom_class_handler": "lightbox_ungrouped", "custom_trigger_classes": "img.triggerclass", "disable_for_gallery_lists": 1, "disable_for_acidfree_gallery_lists": true, "enable_acidfree_videos": true, "slideshow_interval": 5000, "slideshow_automatic_start": true, "slideshow_automatic_exit": true, "show_play_pause": true, "pause_on_next_click": false, "pause_on_previous_click": true, "loop_slides": false, "iframe_width": "645", "iframe_height": "430", "iframe_border": 1, "enable_video": 0 }, "custom_search": { "form_target": "_self", "solr": 0 } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$(document).ready(function(){ $('#logo,.slideshow,.content,.node').pngFix(); });
+//--><!]]>
+</script>
+  <script type="text/javascript"> </script>
+      <style type="text/css">
+    #page {
+      width : 990px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-left #main {
+      margin-left: -260px;
+    }
+    body.sidebars #main {
+      margin-left: -260px;
+    }
+    body.sidebar-left #squeeze {
+      margin-left: 260px;
+    }
+    body.sidebars #squeeze {
+      margin-left: 260px;
+    }
+    #sidebar-left {
+      width: 260px;
+    }
+    </style>
+        <style type="text/css">
+    body.sidebar-right #main {
+      margin-right: -210px;
+    }
+    body.sidebars #main {
+      margin-right: -210px;
+    }
+    body.sidebar-right #squeeze {
+      margin-right: 210px;
+    }
+    body.sidebars #squeeze {
+      margin-right: 210px;
+    }
+    #sidebar-right {
+      width: 210px;
+    }
+    </style>
+        <style type="text/css">
+    body {
+      font-family : Arial, Verdana, sans-serif;
+    }
+    </style>
+      <!--[if lte IE 6]>
+<script type="text/javascript"> 
+    $(document).ready(function(){ 
+        $(document).pngFix(); 
+    }); 
+</script> 
+<![endif]-->
+    <!--[if IE]>
+<style type="text/css" media="all">@import "/sites/all/themes/newsflash/css/ie.css";</style>
+<![endif]-->
+      <!--[if lte IE 6]>
+<script type="text/javascript" src="http://normanpd.normanok.gov/sites/all/themes/newsflash/js/suckerfish.js"></script>
+<![endif]-->
+        <script type="text/javascript" src="http://normanpd.normanok.gov/sites/all/themes/newsflash/js/pickstyle.js"></script>
+</head>
+<body>
+  <div id="page">
+    <div id="header" class="clear-block">
+      <div id="logo-title">
+                              <a href="/" title="Home"> <img src="/sites/default/files/theme/vs1_logo.png" alt="Home" id="logo" /> </a>
+                        </div><!-- /logo-title -->
+      <div id="name-and-slogan">
+                      </div><!-- /name-and-slogan -->
+            <form action="/content/daily-activity"  accept-charset="UTF-8" method="post" id="search-theme-form" class="search-form">
+<div><div id="search" class="container-inline">
+  <div class="form-item" id="edit-search-theme-form-1-wrapper">
+ <label for="edit-search-theme-form-1">Search this site: </label>
+ <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="Search NormanOK.gov" title="Enter the terms you wish to search for." class="form-text  custom-search-default-value custom-search-box" />
+</div>
+<fieldset class="custom_search-popup"></fieldset>
+<div class="form-item" id="edit-Title-wrapper">
+ <input type="text" maxlength="128" name="Title" id="edit-Title" size="20" value="" class="form-text" />
+ <div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-8f23d47a7e5c06d87ef6e3c35f78c23c" value="form-8f23d47a7e5c06d87ef6e3c35f78c23c"  />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+<input type="hidden" name="default_text" id="edit-default-text" value="Search NormanOK.gov"  class="default-text" />
+</div>
+
+</div></form>
+              <div id="primarymenu">
+                                            <ul class="links secondary-links"><li class="menu-167 first"><a href="http://www.normanok.gov" title="This will take you to the City of Norman Website.">City of Norman</a></li>
+<li class="menu-7217"><a href="/pd/pd-feedback-form">Contact</a></li>
+<li class="menu-10342 last"><a href="/pd/police-frequently-asked-questions" title="Police Frequently Asked Questions">FAQ</a></li>
+</ul> 
+                </div>
+                    <div style="clear:both"></div>
+        <div id="suckerfishmenu" class="clear-block"> <div class="block block-menu" id="block-menu-menu-pdtest">
+  <h2 class="title">PD Main Menu</h2>  <div class="content"><ul class="menu"><li class="expanded first"><a href="/pd/office-chief">Office of the Chief</a><ul class="menu"><li class="leaf first"><a href="/pd/professional-standards">Professional Standards</a></li>
+<li class="leaf"><a href="/pd/office-media-relations">Office of Media Relations</a></li>
+<li class="leaf"><a href="/content/pd-press-releases">Press Releases</a></li>
+<li class="leaf"><a href="/pd/benchmark-cities-report">Benchmark Cities Report</a></li>
+<li class="leaf"><a href="/pd/body-cameras">Body Cameras</a></li>
+<li class="leaf"><a href="/pd/history">Department History</a></li>
+<li class="leaf last"><a href="/pd/fallen-officers">Fallen Officers</a></li>
+</ul></li>
+<li class="expanded"><a href="/">Department Organization</a><ul class="menu"><li class="leaf first"><a href="/pd/deputy-chief">Deputy Chief</a></li>
+<li class="expanded"><a href="/pd/operations-bureau">Operations Bureau</a><ul class="menu"><li class="leaf first"><a href="/pd/patrol-division-i">Patrol Division I</a></li>
+<li class="leaf"><a href="/pd/patrol-division-II">Patrol Division II</a></li>
+<li class="leaf"><a href="/pd/patrol-division-iii">Patrol Division III</a></li>
+<li class="expanded last"><a href="/pd/uniformed-support-division">Uniformed Support Division</a><ul class="menu"><li class="leaf first"><a href="/pd/crime-prevention-community-services-section">Crime Prevention &amp; Community Services Section</a></li>
+<li class="leaf"><a href="/pd/parking-enforcement-section">Parking Enforcement Section</a></li>
+<li class="leaf"><a href="/pd/school-resource-officer-section" title="School Resource Officer Section">School Resource Officer Section</a></li>
+<li class="leaf last"><a href="/pd/traffic-enforcement-section" title="Traffic Enforcement Section">Traffic Enforcement Section</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/pd/support-bureau">Support Bureau</a><ul class="menu"><li class="leaf first"><a href="/pd/criminal-investigations-division">Investigations Division</a></li>
+<li class="leaf"><a href="/pd/communications">Communications</a></li>
+<li class="leaf"><a href="/pd/records-and-personnel">Staff Services Division</a></li>
+<li class="expanded last"><a href="/pd/reports-and-records" title="Reports and Records">Reports and Records</a><ul class="menu"><li class="leaf first"><a href="/pd/fee-schedule-reports" title="Fee Schedule for Reports">Fee Schedule for Reports</a></li>
+<li class="leaf last"><a href="/pd/request-form-records" title="Request Form for Records">Request Form for Records</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded last"><a href="/pd/special-teams" title="Special Teams">Special Teams</a><ul class="menu"><li class="leaf first"><a href="/pd/bicycle-team" title="Bicycle Team">Bicycle Team</a></li>
+<li class="leaf"><a href="/pd/canine-handler-k9" title="Canine Handler - K9">Canine Handler - K9</a></li>
+<li class="leaf"><a href="/pd/collision-investigation-and-reconstruction-team" title="Collision Investigation and Reconstruction Team">Collision Investigation and Reconstruction Team</a></li>
+<li class="leaf"><a href="/pd/crisis-intervention-team" title="Crisis Intervention Team">Crisis Intervention Team</a></li>
+<li class="leaf"><a href="/pd/hazardous-devices-unit" title="Hazardous Devices Unit">Hazardous Devices Unit</a></li>
+<li class="leaf"><a href="/pd/honor-guard" title="Honor Guard">Honor Guard</a></li>
+<li class="leaf last"><a href="/pd/special-weapons-and-tactics" title="Special Weapons And Tactics">Special Weapons And Tactics</a></li>
+</ul></li>
+</ul></li>
+<li class="expanded"><a href="/pd/animal-welfare">Animal Welfare</a><ul class="menu"><li class="leaf first"><a href="http://www.petfinder.com/pet-search?shelter_id=OK72">Pet Adoption</a></li>
+<li class="leaf last"><a href="https://www.volgistics.com/ex/portal.dll/ap?ap=278732981" target="_blank">Volunteer Application</a></li>
+</ul></li>
+<li class="expanded"><a href="/" title="I Want To...">I Want To...</a><ul class="menu"><li class="leaf first"><a href="/pd/incident-reporting">File Report Online</a></li>
+<li class="leaf"><a href="/pd/report-a-parking-problem">Report a Parking Problem</a></li>
+<li class="leaf"><a href="/pd/report-a-traffic-problem">Report a Traffic Problem</a></li>
+<li class="leaf"><a href="/pd/crime-stoppers-0">Report information to Crime Stoppers</a></li>
+<li class="expanded"><a href="/">Request a Permit for...</a><ul class="menu"><li class="leaf first"><a href="http://www.normanok.gov/sites/default/files/WebFM/Norman/Financial%20Services/AlarmRegistrationApplication.pdf">Alarm</a></li>
+<li class="leaf"><a href="http://www.normanok.gov/sites/default/files/WebFM/Norman/City%20Clerk/Noise%20Variance%20Permit.pdf">Noise Variance</a></li>
+<li class="leaf"><a href="http://www.normanok.gov/sites/default/files/WebFM/Norman/Police/Parade%20Permit.pdf">Parade</a></li>
+<li class="leaf"><a href="http://www.normanok.gov/sites/default/files/WebFM/Norman/Police/Parking%20Variance.pdf">Parking Variance</a></li>
+<li class="leaf"><a href="http://www.normanok.gov/sites/default/files/WebFM/Norman/City%20Clerk/Street%20Closing%20Permit%20for%20Special%20Events.pdf">Street Closure</a></li>
+<li class="leaf last"><a href="http://www.normanok.gov/sites/default/files/WebFM/Norman/City%20Clerk/Taxi%20Permit.pdf">Taxi</a></li>
+</ul></li>
+<li class="leaf"><a href="http://www.raidsonline.com/?address=Norman%2COK" target="_blank">See the Crime Map</a></li>
+<li class="leaf"><a href="/pd/neighborhood-watch-safecam">Submit Neighborhood Watch Safecam Information</a></li>
+<li class="leaf last"><a href="https://reportit.leadsonline.com" target="_blank" title="Property Inventory Registration System">Use the Property Inventory Registration System</a></li>
+</ul></li>
+<li class="expanded"><a href="/pd/community-services">Community Services</a><ul class="menu"><li class="expanded first"><a href="/pd/community-relations" title="Community Relations">Community Relations</a><ul class="menu"><li class="leaf first"><a href="/pd/care-trak" title="Care Trak">Care Trak</a></li>
+<li class="expanded"><a href="/pd/citizens-police-academy">Citizens&#039; Police Academy</a><ul class="menu"><li class="leaf last"><a href="/pd/apply-citizens-police-academy">Apply for the Citizens&#039; Police Academy</a></li>
+</ul></li>
+<li class="leaf"><a href="/pd/junior-police-academy">Police Activities League</a></li>
+<li class="expanded"><a href="/pd/police-explorer-program">Police Explorer Program</a><ul class="menu"><li class="leaf first"><a href="http://normanpd.normanok.gov/pd/post-officers-and-awards">Post Officers and Awards</a></li>
+<li class="leaf last"><a href="http://normanpd.normanok.gov/pd/police-explorer-events">Events</a></li>
+</ul></li>
+<li class="leaf"><a href="/pd/safety-town-0">Safety Town</a></li>
+<li class="collapsed"><a href="/pd/said-special-needs-alerts-and-identification-program">S.A.Id</a></li>
+<li class="leaf last"><a href="https://www.volgistics.com/ex/portal.dll/ap?ap=278732981" target="_blank">Volunteer Application</a></li>
+</ul></li>
+<li class="expanded"><a href="/pd/crime-prevention-0">Crime Prevention</a><ul class="menu"><li class="leaf first"><a href="/pd/neighborhood-watch-0" title="Neighborhood Watch">Neighborhood Watch</a></li>
+<li class="leaf last"><a href="/pd/operation-id-0" title="Operation ID">Operation ID</a></li>
+</ul></li>
+<li class="leaf"><a href="/pd/crime-free-multi-housing" title="Crime Free Multi-Housing">Crime Free Multi-Housing</a></li>
+<li class="leaf"><a href="/pd/crime-stoppers-0">Crime Stoppers</a></li>
+<li class="expanded last"><a href="/pd/parking-and-traffic" title="Parking and Traffic">Parking and Traffic</a><ul class="menu"><li class="leaf first"><a href="/pd/report-a-parking-problem">Report a Parking Problem</a></li>
+<li class="leaf last"><a href="/pd/report-a-traffic-problem" title="Report a Traffic Problem">Report a Traffic Problem</a></li>
+</ul></li>
+</ul></li>
+<li class="leaf last"><a href="/pd/public-safety-sales-tax">Public Safety Tax</a></li>
+</ul></div></div>
+<div class="block block-menu" id="block-menu-menu-police-partners">
+  <h2 class="title">Community &amp; Law Enforcement Partners</h2>  <div class="content"><ul class="menu"><li class="leaf first"><a href="/pd/community-law-enforcement-partners-0" title="Community &amp; Law Enforcement Partners">Community &amp; Law Enforcement Partners</a></li>
+<li class="expanded last"><a href="/pd/open-data-portal">Open Data Portal</a><ul class="menu"><li class="leaf last"><a href="/pd/norman-demographics">Norman Demographics</a></li>
+</ul></li>
+</ul></div></div>
+ </div>
+          </div><!-- /header -->
+            <div id="middlecontainer">
+            <div id="main">
+        <div id="squeeze">
+                                    <div id="breadcrumb"> <div class="breadcrumb"><a href="/">Home</a> » <a href="/content/public-safety">Public Safety</a> » <a href="/content/police-department">Police Department</a></div> </div>
+                                          <div id="squeeze-content">
+            <div id="inner-content">
+                           <h1 class="title">Daily Activity Reports</h1>              
+              <div class="tabs"></div>
+                                          <div class="node">
+  
+  
+  
+  <div class="content"><span class='print-link'></span><p style="text-align: center;" mce_style="text-align: center;"><span mce_style="font-size: medium;" style="font-size: medium;"><img style="float: left;" mce_style="float: left;" alt="Police Badge" rel="lightbox" src="/sites/default/files/PD/images/npdBadgeColor.gif" mce_rel="lightbox" src="/sites/default/files/PD/images/npdBadgeColor.gif" width="125" height="165" class="mceItem" /><img style="float: right;" mce_style="float: right;" alt="Accreditation Agency" rel="lightbox" src="/sites/default/files/PD/images/accreditation-logoSm.gif" mce_rel="lightbox" src="/sites/default/files/PD/images/accreditation-logoSm.gif" width="149" height="165" class="mceItem" /></span></p>
+<p style="text-align: center;"><span mce_style="font-size: large;" style="font-size: large;">Norman Police Department</span></p>
+<p style="text-align: center;" mce_style="text-align: center;"><span mce_style="font-size: large;" style="font-size: large;">Daily Activity Reports Listing</span></p>
+<p style="text-align: center;" mce_style="text-align: center;"><br /></p>
+<p style="text-align: center;" mce_style="text-align: center;"><br /></p>
+<p style="text-align: center;" mce_style="text-align: center;"><br /></p>
+<p style="text-align: center;" mce_style="text-align: center;"><span mce_style="font-size: large;" style="font-size: large;"></span></p>
+<hr />
+<p><br /></p>
+<p><br /></p>
+<table id="filebrowser-file-listing" class="sticky-enabled">
+ <thead><tr><th></th><th class="active"><a href="/content/daily-activity?sort=desc&amp;order=Name" title="sort by Name" class="active">Name<img src="/misc/arrow-desc.png" alt="sort icon" title="sort descending" width="13" height="13" /></a></th><th><a href="/content/daily-activity?sort=asc&amp;order=Size" title="sort by Size" class="active">Size</a></th> </tr></thead>
+<tbody>
+ <tr class="odd"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/folder.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/node/657/Public%20Records%20Archive">Public Records Archive</a></td><td></td><td></td> </tr>
+ <tr class="even"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-23%20Daily%20Incident%20Summary.pdf">2017-02-23 Daily Incident Summary</a></td><td>225.97 KB</td><td></td> </tr>
+ <tr class="odd"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-23%20Daily%20Case%20Summary.pdf">2017-02-23 Daily Case Summary</a></td><td>39.25 KB</td><td></td> </tr>
+ <tr class="even"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-23%20Daily%20Arrest%20Summary.pdf">2017-02-23 Daily Arrest Summary</a></td><td>30.88 KB</td><td></td> </tr>
+ <tr class="odd"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-22%20Daily%20Incident%20Summary.pdf">2017-02-22 Daily Incident Summary</a></td><td>182.49 KB</td><td></td> </tr>
+ <tr class="even"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-22%20Daily%20Case%20Summary.pdf">2017-02-22 Daily Case Summary</a></td><td>33.31 KB</td><td></td> </tr>
+ <tr class="odd"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-22%20Daily%20Arrest%20Summary.pdf">2017-02-22 Daily Arrest Summary</a></td><td>30.55 KB</td><td></td> </tr>
+ <tr class="even"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-21%20Daily%20Incident%20Summary.pdf">2017-02-21 Daily Incident Summary</a></td><td>199.42 KB</td><td></td> </tr>
+ <tr class="odd"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-21%20Daily%20Case%20Summary.pdf">2017-02-21 Daily Case Summary</a></td><td>29.8 KB</td><td></td> </tr>
+ <tr class="even"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-21%20Daily%20Arrest%20Summary.pdf">2017-02-21 Daily Arrest Summary</a></td><td>26.27 KB</td><td></td> </tr>
+ <tr class="odd"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-20%20Daily%20Incident%20Summary.pdf">2017-02-20 Daily Incident Summary</a></td><td>180.14 KB</td><td></td> </tr>
+ <tr class="even"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-20%20Daily%20Case%20Summary.pdf">2017-02-20 Daily Case Summary</a></td><td>31.85 KB</td><td></td> </tr>
+ <tr class="odd"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-20%20Daily%20Arrest%20Summary.pdf">2017-02-20 Daily Arrest Summary</a></td><td>30.78 KB</td><td></td> </tr>
+ <tr class="even"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-19%20Daily%20Incident%20Summary.pdf">2017-02-19 Daily Incident Summary</a></td><td>166.58 KB</td><td></td> </tr>
+ <tr class="odd"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-19%20Daily%20Case%20Summary.pdf">2017-02-19 Daily Case Summary</a></td><td>30.22 KB</td><td></td> </tr>
+ <tr class="even"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-19%20Daily%20Arrest%20Summary.pdf">2017-02-19 Daily Arrest Summary</a></td><td>32.76 KB</td><td></td> </tr>
+ <tr class="odd"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-18%20Daily%20Incident%20Summary.pdf">2017-02-18 Daily Incident Summary</a></td><td>205.15 KB</td><td></td> </tr>
+ <tr class="even"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-18%20Daily%20Case%20Summary.pdf">2017-02-18 Daily Case Summary</a></td><td>27.07 KB</td><td></td> </tr>
+ <tr class="odd"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-18%20Daily%20Arrest%20Summary.pdf">2017-02-18 Daily Arrest Summary</a></td><td>29.88 KB</td><td></td> </tr>
+ <tr class="even"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-17%20Daily%20Incident%20Summary.pdf">2017-02-17 Daily Incident Summary</a></td><td>210.05 KB</td><td></td> </tr>
+ <tr class="odd"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-17%20Daily%20Case%20Summary.pdf">2017-02-17 Daily Case Summary</a></td><td>30.35 KB</td><td></td> </tr>
+ <tr class="even"><td style="width:1%;"><img src="/sites/all/modules/filebrowser/icons/application-pdf.png" alt="" title="" width="22" height="22" /></td><td class="active"><a href="/filebrowser_download/657/2017-02-17%20Daily%20Arrest%20Summary.pdf">2017-02-17 Daily Arrest Summary</a></td><td>25.6 KB</td><td></td> </tr>
+</tbody>
+</table>
+<div class="filebrowser-statistics">Contains 21 files totaling 1.76 MB in size.</div></div>
+  <div class="clear-block clear"></div>
+
+      <div class="links"><ul class="links inline"><li class="file_browser_download_archive first last"><a href="/filebrowser_download/657/Daily%20Activity%20Reports.zip">Download files as an Archive</a></li>
+</ul></div>
+  
+</div>
+ 
+                                        </div><!-- /inner-content -->
+          </div><!-- /squeeze-content -->
+        </div><!-- /squeeze -->
+      </div><!-- /main -->
+          </div><!-- /middle-container -->
+    <div style="clear:both"></div>
+                    <div class="clear-block clr" id="section2">
+        <div class="sections">
+                      <div class="section width33"><div class="block block-block" id="block-block-121">
+  <h2 class="title">Public Information</h2>  <div class="content"><p><a mce_href="http://normanpd.normanok.gov/content/daily-activity" href="http://normanpd.normanok.gov/content/daily-activity">Daily Activity Reports</a><br /><a mce_href="http://normanpd.normanok.gov/content/pd-press-releases" href="http://normanpd.normanok.gov/content/pd-press-releases">Press Releases</a><a mce_href="http://normanpd.normanok.gov/pd/crime-analysis" href="http://normanpd.normanok.gov/pd/crime-analysis"><br />Crime Maps &amp; Stats</a><a mce_href="http://normanpd.normanok.gov/pdrso/offender/registered-sex-offenders" href="http://normanpd.normanok.gov/pdrso/offender/registered-sex-offenders"><br />Registered Offenders</a><a mce_href="pd/registered-offenders-map" href="pd/registered-offenders-map"><br /></a><a mce_href="http://normanpd.normanok.gov/pd/benchmark-cities-report" href="http://normanpd.normanok.gov/pd/benchmark-cities-report">Benchmark Cities Report</a><br /><a href="http://normanpd.normanok.gov/content/npd-policy-manual" mce_href="http://normanpd.normanok.gov/content/npd-policy-manual">NPD Policy Manual</a><br mce_bogus="1" /></p>
+</div></div>
+</div>
+                                <div class="section width33"><div class="block block-block" id="block-block-178">
+  <h2 class="title">Partners</h2>  <div class="content"><p style="text-align: center;" mce_style="text-align: center;"><a mce_href="http://normanpd.normanok.gov/pd/community-law-enforcement-partners-0" href="http://normanpd.normanok.gov/pd/community-law-enforcement-partners-0"><img class="mceItem" rel="lightbox" src="/sites/default/files/PD/images/NORMAN%20PD%20PATCH-B3%20no%20border.png" mce_rel="lightbox" src="/sites/default/files/PD/images/NORMAN%20PD%20PATCH-B3%20no%20border.png" height="90" width="69" /></a><br mce_bogus="1" /></p>
+</div></div>
+</div>
+                                          <div class="section width33"><div class="block block-block" id="block-block-119">
+  <h2 class="title">Social Media</h2>  <div class="content"><div style="text-align: center;" mce_style="text-align: center;"><a target="_blank" mce_href="http://www.facebook.com/pages/City-of-Norman-OK-Police-Department/198193420243157" href="http://www.facebook.com/pages/City-of-Norman-OK-Police-Department/198193420243157"><img class="mceItem" alt="Facebook" rel="lightbox" src="/sites/default/files/PD/images/facebook-icon.png" mce_rel="lightbox" src="/sites/default/files/PD/images/facebook-icon.png" height="90" width="90" /></a><a target="_blank" mce_href="https://twitter.com/normanokpd" href="https://twitter.com/normanokpd"><img class="mceItem" alt="Twitter" rel="lightbox" src="/sites/default/files/PD/images/twitter-icon64.png" mce_rel="lightbox" src="/sites/default/files/PD/images/twitter-icon64.png" height="90" width="90" /></a><a target="_blank" mce_href="http://www.youtube.com/user/normanpolicemedia" href="http://www.youtube.com/user/normanpolicemedia"><img class="mceItem" alt="YouTube" rel="lightbox" src="/sites/default/files/PD/images/youtube-icon64.png" mce_rel="lightbox" src="/sites/default/files/PD/images/youtube-icon64.png" height="90" width="90" /></a><br /><br /><br /></div>
+</div></div>
+</div>
+                  </div>
+        <div style="display: inline; clear:both"></div>
+      </div><!-- /section2 -->
+        <div id="footer">
+                    <div id="footer-message">Copyright 2015-2016 | <a href="/content/city-contact-information">Contact Us</a> | <a href="/content/new-city-website">About the Site</a></div>
+            <br />
+         <!--   <a href="http://www.roopletheme.com" title="RoopleTheme!"><img src="/sites/all/themes/newsflash/images/blue/RoopleThemeLogo.png" alt="RoopleTheme!"/></a> -->
+    </div><!-- /footer -->
+  <div style="clear:both"></div>
+  <script type="text/javascript" src="/sites/default/files/js/7843f2c7bba21810895964b28e726a2b.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{var pageTracker = _gat._getTracker("UA-11871990-1");pageTracker._trackPageview();} catch(err) {}
+//--><!]]>
+</script>
+  </div> <!-- /page -->
+</body>
+</html>
